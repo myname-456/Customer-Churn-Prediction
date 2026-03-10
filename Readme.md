@@ -335,3 +335,4 @@ Sau khi xây dựng và kiểm tra:
 Nhãn churn này sẽ được sử dụng làm biến mục tiêu cho các mô hình Machine Learning trong các bước tiếp theo của dự án.
 
 ---
+Dataset cho dự án: https://drive.google.com/drive/folders/1mZICbVgmzU1PE-f7x0pxuUYNP6-SIvVI?usp=drive_link
